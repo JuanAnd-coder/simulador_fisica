@@ -1,7 +1,0 @@
-numpy
-matplotlib
-pygame
-streamlit
-jupyterlab
-plotly
-numba
